@@ -147,4 +147,7 @@ dependencies {
     "fullImplementation"(libs.firebase.perf)
 
     implementation(libs.timber)
+
+    implementation(libs.glance.appwidget)
+    implementation(libs.glance.material3)
 }
